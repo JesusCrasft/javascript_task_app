@@ -24,6 +24,7 @@ function saveTask(e) {
 
     }
 
+    getTask();
     e.preventDefault();
 }
 
@@ -34,6 +35,21 @@ function getTask() {
 
     tasksView.innerHTML = '';
 
-    for()
+    for(let i = 0; i < tasks.length; i++) {
+        let title = tasks[i].title;
+        let description= tasks[i].description;
+
+        tasksView.innerHTML += `
+        <div class="card mb-3">
+            <div class="card-body">
+                <p>${title} - ${description}</p>
+                <a class="btn btn-danger">
+                    Delete
+                </a>
+            </div>
+        </div>`
+    }
 
 }
+
+getTask();
