@@ -27,3 +27,13 @@ function saveTask(e) {
     e.preventDefault();
 }
 
+function getTask() {
+
+    let tasks = JSON.parse(localStorage.getItem('tasks'));
+    let tasksView = document.getElementById('tasks');
+
+    tasksView.innerHTML = '';
+
+    for()
+
+}
