@@ -24,7 +24,7 @@ Ejecutar el HTML en el navegador de su preferencia y listo
 - [x] Hacer el readme
 
 ## Contribute / Para contribuir
-1. Has un [Fork](https://github.com/pulidovpe/mean-library/fork)
+1. Has un [Fork](https://github.com/JesusCrasft/javascript_task_app/fork)
 2. Crea tu propia rama (git checkout -b feature/fooBar)
 3. Sube tus cambios (git commit -am 'Add some fooBar')
 4. Actualiza tu rama (git push origin feature/fooBar)
