@@ -1,5 +1,5 @@
 # Javascript Task App
-> Es una aplicacion que desarrolle en Javascript con HTML y un poco de Bootstrap.
+> Es una aplicacion que desarrolle guiandome de un video en Javascript con HTML y un poco de Bootstrap.
 > Consta de un sistema donde se almacenan tareas en el navegador gracias a la API StorageLocal
 
 ## Screenshots / Capturas de Pantalla
@@ -32,7 +32,7 @@ Ejecutar el HTML en el navegador de su preferencia y listo
 
 ## Credits / Créditos
 En este proyecto, me he guiado del tutorial publicado en este video:
-[FaztWeb](https://www.youtube.com/watch?v=Ko_S79ZGDqI), propiedad del usuario @github/FaztWeb
+[Adam La Morre](https://www.youtube.com/watch?v=Fzv-rgwcFKk), propiedad del usuario @github/alamorre
 
 ## License / Licencia
 Jesus Angulo – @github/JesusCrasft – jesus.flores.angulo@gmail.com
